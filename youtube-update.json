@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.43.0)",
-  "versionCode": 55,
-  "zipUrl": "https://github.com/thangdino03/revanced-magisk-module/releases/download/55/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.43.1)",
+  "versionCode": 56,
+  "zipUrl": "https://github.com/thangdino03/revanced-magisk-module/releases/download/56/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/thangdino03/revanced-magisk-module/update/build.md"
 }
