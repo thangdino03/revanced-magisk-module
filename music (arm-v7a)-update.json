@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.47.0)",
-  "versionCode": 60,
-  "zipUrl": "https://github.com/thangdino03/revanced-magisk-module/releases/download/60/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.48.0)",
+  "versionCode": 61,
+  "zipUrl": "https://github.com/thangdino03/revanced-magisk-module/releases/download/61/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/thangdino03/revanced-magisk-module/update/build.md"
 }
